@@ -53,4 +53,4 @@ Open `notebooks/01_eda.ipynb` and run the cells from top to bottom.
 
 ## Author
 
-Seif Mostafa — Software Engineering graduate, currently working as a freelance AI automation engineer. Building this project as part of an application to the Vodafone Egypt AI Academy.
+Seif Mostafa, Software Engineering graduate, currently working as a freelance AI automation engineer, I am building this project as part of an application to the Vodafone Egypt AI Academy.
